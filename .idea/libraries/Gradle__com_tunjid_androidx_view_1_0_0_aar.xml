@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tunjid.androidx:view:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f321c2643d19fbd09434ed55fd40631/jetified-view-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f321c2643d19fbd09434ed55fd40631/jetified-view-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f321c2643d19fbd09434ed55fd40631/jetified-view-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunjid.androidx/view/1.0.0/47c58a16cf02a777bbd755b8235e8b9c5625033a/view-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
